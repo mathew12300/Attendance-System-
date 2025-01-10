@@ -45,7 +45,8 @@ Before running this project, ensure you have the following:
    ```  
 
 3. **MySQL Database**:  
-   - Install MySQL Server and create a database named `attendance_system` with a table for storing attendance records.  
+   - Install MySQL Server by clicking the link (https://dev.mysql.com/downloads/installer/).
+   -  and create a database named `attendance_system` with a table for storing attendance records.  
 
 4. **Code Editor**:  
    - Use an IDE like PyCharm, VS Code, or any Python-supported editor.  
