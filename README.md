@@ -39,16 +39,20 @@ Before running this project, ensure you have the following:
    - Make sure Python is installed and added to the system PATH.  
 
 2. **Required Python Libraries**:  
-   Install the dependencies using pip:  
+   Install the dependencies using pip:
    ```bash
+    pip install -r requirements.txt 
+   ```
+    
+   ```bash(Optional)--
    pip install opencv-python numpy mysql-connector-python tensorflow
    ```  
 
-3. **MySQL Database**:  
+4. **MySQL Database**:  
    - Install MySQL Server by clicking the link (https://dev.mysql.com/downloads/installer/).
    -  and create a database named `attendance_system` with a table for storing attendance records.  
 
-4. **Code Editor**:  
+5. **Code Editor**:  
    - Use an IDE like PyCharm, VS Code, or any Python-supported editor.  
 
 ---
