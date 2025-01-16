@@ -103,6 +103,7 @@ Here’s the step-by-step procedure for executing the attendance system project,
        status VARCHAR(50) NOT NULL
    );
    ```
+
 3. Ensure you update the database connection details in the code (`host`, `user`, `password`) to match your MySQL setup.
 
 ---
