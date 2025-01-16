@@ -149,7 +149,9 @@ The face detection system uses a pre-trained model from **Google Teachable Machi
 ---
 
 ### **Step 4: Run the Script**  
-1. Open the project directory in your terminal or Python IDE (e.g., PyCharm).  
+1. Open the project directory in your terminal or Python IDE (e.g., PyCharm).
+![image](https://github.com/user-attachments/assets/75d05e96-084a-43a2-a325-ade4495135a1)
+
 2. Execute the script using the following command:  
    ```bash
    python your_script_name.py
